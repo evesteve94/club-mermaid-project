@@ -1,0 +1,128 @@
+[
+    {
+        "name" : "Jonna Blode Hanno",
+        "title" : "Producer & Founder",
+        "image" : "./images/jonna.png",
+        "description" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. In rem delectus deleniti excepturi quasi aliquam incidunt assumenda provident ut, ex labore quas eos. Repudiandae quaerat sequi, voluptates aut voluptate impedit!",
+        "instagram" : "https://www.instagram.com/jonnablode/"
+    },
+    {
+        "name" : "Aida Option",
+        "title" : "Swedish Thai Drag Superstar",
+        "image" : "./images/aida-2.png",
+        "description" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. In rem delectus deleniti excepturi quasi aliquam incidunt assumenda provident ut, ex labore quas eos. Repudiandae quaerat sequi, voluptates aut voluptate impedit!",
+        "instagram" : "https://www.instagram.com/its_adaoption/?ref=ABW"
+    },
+    {
+        "name" : "Venuz Verze",
+        "title" : "Alien Superstar",
+        "image" : "./images/venuz.png",
+        "description" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. In rem delectus deleniti excepturi quasi aliquam incidunt assumenda provident ut, ex labore quas eos. Repudiandae quaerat sequi, voluptates aut voluptate impedit!",
+        "instagram" : "https://www.instagram.com/itsplanetvenuz/"
+    },
+    {
+        "name" : "Cloe Fish",
+        "title" : "Dancing Diva of Skåne",
+        "image" : "./images/cloe.png",
+        "description" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. In rem delectus deleniti excepturi quasi aliquam incidunt assumenda provident ut, ex labore quas eos. Repudiandae quaerat sequi, voluptates aut voluptate impedit!",
+        "instagram" : "https://www.instagram.com/cloe_fish/"
+    },
+    {
+        "name" : "Liam Teason",
+        "title" : "Drag King With Bedroom Eyes",
+        "image" : "./images/liam.png" ,
+        "description" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. In rem delectus deleniti excepturi quasi aliquam incidunt assumenda provident ut, ex labore quas eos. Repudiandae quaerat sequi, voluptates aut voluptate impedit!",
+        "instagram" : "https://www.instagram.com/liamteasem/"
+    },
+    {
+        "name" : "Le Marqua The Queen",
+        "title" : "Caring Comedian Co-producer",
+        "image" : "./images/marqua.png",
+        "description" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. In rem delectus deleniti excepturi quasi aliquam incidunt assumenda provident ut, ex labore quas eos. Repudiandae quaerat sequi, voluptates aut voluptate impedit!",
+        "instagram" : "https://www.instagram.com/le.marqua_the.queen/"
+    },
+    {
+        "name" : "Nippy Slips",
+        "title" : "COCKY-crew Royality",
+        "image" : "./images/nippy.png",
+        "description" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. In rem delectus deleniti excepturi quasi aliquam incidunt assumenda provident ut, ex labore quas eos. Repudiandae quaerat sequi, voluptates aut voluptate impedit!",
+        "instagram" : "https://www.instagram.com/nippyslips/"
+    },
+    {
+        "name" : "Miss Bernadette Weverly",
+        "title" : "A Saucy Southern Bell",
+        "image" : "./images/berna.png",
+        "description" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. In rem delectus deleniti excepturi quasi aliquam incidunt assumenda provident ut, ex labore quas eos. Repudiandae quaerat sequi, voluptates aut voluptate impedit!",
+        "instagram" : "https://www.instagram.com/missbernadette69/"
+    },
+    {
+        "name" : "Primadonna",
+        "title" : "Local Punk-Rock Godess",
+        "image" : "./images/primadonna.png",
+        "description" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. In rem delectus deleniti excepturi quasi aliquam incidunt assumenda provident ut, ex labore quas eos. Repudiandae quaerat sequi, voluptates aut voluptate impedit!",
+        "instagram" : "https://www.instagram.com/miss_primadonna_queen/"
+    },
+    {
+        "name" : "Widianne X",
+        "title" : "Multidisciplinary Artist",
+        "image" : "./images/widianne.png",
+        "description" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. In rem delectus deleniti excepturi quasi aliquam incidunt assumenda provident ut, ex labore quas eos. Repudiandae quaerat sequi, voluptates aut voluptate impedit!",
+        "instagram" : "https://www.instagram.com/localangrybitch/"
+    },
+    {
+        "name" : "Ranya",
+        "title" : "Artist, Producer, Legend",
+        "image" : "./images/ranya.png",
+        "description" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. In rem delectus deleniti excepturi quasi aliquam incidunt assumenda provident ut, ex labore quas eos. Repudiandae quaerat sequi, voluptates aut voluptate impedit!",
+        "instagram" : "https://www.instagram.com/ranya8a/?img_index=1"
+    },
+    {
+        "name" : "Billy Pan Pizza<",
+        "title" : "Leather Fag Drag King",
+        "image" : "./images/billy.png",
+        "description" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. In rem delectus deleniti excepturi quasi aliquam incidunt assumenda provident ut, ex labore quas eos. Repudiandae quaerat sequi, voluptates aut voluptate impedit!",
+        "instagram" : "https://www.instagram.com/billy.panpizza/"
+    },
+    {
+        "name" : "Meatling the Meatbaby",
+        "title" : "Queer Artist From GBG",
+        "image" : "./images/meatling.png",
+        "description" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. In rem delectus deleniti excepturi quasi aliquam incidunt assumenda provident ut, ex labore quas eos. Repudiandae quaerat sequi, voluptates aut voluptate impedit!",
+        "instagram" : "https://www.instagram.com/meatlingthemeatbaby/"
+    },
+    {
+        "name" : "Tender Lumpling",
+        "title" : "Burlesque Performer",
+        "image" : "./images/tender.png",
+        "description" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. In rem delectus deleniti excepturi quasi aliquam incidunt assumenda provident ut, ex labore quas eos. Repudiandae quaerat sequi, voluptates aut voluptate impedit!",
+        "instagram" : "https://www.instagram.com/tenderlumpling/?img_index=1"
+    },
+    {
+        "name" : "Ortolana Fontana",
+        "title" : "Al Jizz Queera Royalty",
+        "image" : "./images/ortolana.png",
+        "description" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. In rem delectus deleniti excepturi quasi aliquam incidunt assumenda provident ut, ex labore quas eos. Repudiandae quaerat sequi, voluptates aut voluptate impedit!",
+        "instagram" : "https://www.instagram.com/alkhafaji.abdullah/"
+    },
+    {
+        "name" : "Raj",
+        "title" : "Bollywood King & Choreographer",
+        "image" : "./images/raj.png",
+        "description" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. In rem delectus deleniti excepturi quasi aliquam incidunt assumenda provident ut, ex labore quas eos. Repudiandae quaerat sequi, voluptates aut voluptate impedit!",
+        "instagram" : ""
+    },
+    {
+        "name" : "Shady Lady",
+        "title" : "FAB Drag Queen",
+        "image" : "./images/shady.png",
+        "description" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. In rem delectus deleniti excepturi quasi aliquam incidunt assumenda provident ut, ex labore quas eos. Repudiandae quaerat sequi, voluptates aut voluptate impedit!",
+        "instagram" : "https://www.instagram.com/the_shadylady_/"
+    },
+    {
+        "name" : "Piffany Queen",
+        "title" : "Skånes Brutta",
+        "image" : "./images/piffany.png",
+        "description" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. In rem delectus deleniti excepturi quasi aliquam incidunt assumenda provident ut, ex labore quas eos. Repudiandae quaerat sequi, voluptates aut voluptate impedit!",
+        "instagram" : "https://www.instagram.com/piffanyqueen/"
+    }
+]
