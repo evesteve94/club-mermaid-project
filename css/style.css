@@ -372,3 +372,9 @@ h6 {
         min-height: 240vh;
     }
 }
+
+@media (min-width: 1050px) {
+    main{
+        min-height: 170vh;
+    }
+}
